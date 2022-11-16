@@ -49,7 +49,7 @@
    "execution_count": 3,
    "id": "10d0151d",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -426,7 +426,7 @@
    "execution_count": 4,
    "id": "38b16f2f",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -638,7 +638,7 @@
    "execution_count": 5,
    "id": "4acdda18",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -663,7 +663,7 @@
    "execution_count": 6,
    "id": "d6957d9b",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -706,7 +706,7 @@
    "execution_count": 7,
    "id": "a4c6f6f5",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
